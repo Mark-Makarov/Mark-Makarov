@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/09uldTF_OnIAAAAd/squirrel-dancing-squirrel.gif" width="100"/>
   <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    [![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)
+  [![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)
+[![whatsup](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=whatsup&logoColor=white)](https://t.me/rzashakeri/)
 </div>
 </div>
