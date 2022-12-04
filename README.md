@@ -3,6 +3,15 @@
   <h1 align="center">Hi there, I'm Mark Makarov 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend-developer from Russia.</h3>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend-developer+from+Russia.)](https://git.io/typing-svg)
+  
+  
+  
+  
+  
+  
+  
+  
   <div id="badges">
     [!image](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)
   [![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)
