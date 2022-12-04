@@ -7,7 +7,7 @@
   <div id="badges">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Whats'up-green?style=for-the-badge&logo=Whats'up&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
 </div>
 </div>
