@@ -5,6 +5,6 @@
 <h3 align="center">Frontend-developer from Russia.</h3>
   
   <div id="badges">
-   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=#26A5E4&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
 </div>
 </div>
