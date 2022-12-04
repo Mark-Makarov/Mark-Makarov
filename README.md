@@ -1,12 +1,11 @@
 <div id="wrapper" align="center">
   <img src="https://media.tenor.com/09uldTF_OnIAAAAd/squirrel-dancing-squirrel.gif" width="100"/>
-  <div id="Header">
-    <h3 align="center">Frontend-developer from Russia.</h3>
+  <div id="Header"> 
   <h1 align="center">Hi there, I'm Mark Makarov 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+    <h3 align="center">Frontend-developer from Russia.</h3>
   </div>
-  
+  <h3 align="center">Languages and Tools</h3>
   <div id="badges">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white"/>
