@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend-developer from Russia.</h3>
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend-developer+from+Russia.)](https://git.io/typing-svg)
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-makarov)](https://github.com/mark-makarov/github-readme-stats)
   
   
   
