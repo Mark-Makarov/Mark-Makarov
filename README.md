@@ -1,9 +1,10 @@
 <div id="wrapper" align="center">
   <img src="https://media.tenor.com/09uldTF_OnIAAAAd/squirrel-dancing-squirrel.gif" width="100"/>
   <div id="Header">
+    <h3 align="center">Frontend-developer from Russia.</h3>
   <h1 align="center">Hi there, I'm Mark Makarov 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend-developer from Russia.</h3>
+
   </div>
   
   <div id="badges">
