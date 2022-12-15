@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite&logoColor=646CFF"/>
 <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=181717"/>
+  
+  <img src="https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=OpenAI&logoColor=412991"/>
+  <img src="https://img.shields.io/badge/WebStorm-white?style=for-the-badge&logo=WebStorm&logoColor=000000"/>
 </div>
 
 <h3 align="center">Сontact me:</h3>
