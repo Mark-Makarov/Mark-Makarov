@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue"/>
 <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=purple"/>
+<img src="https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=MUI&logoColor=007FFF"/>
 <img src="https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=Yarn&logoColor=2C8EBB"/>
 <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite&logoColor=646CFF"/></br>
 <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=F05032"/>
