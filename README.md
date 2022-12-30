@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/Apache Cordova-white?style=for-the-badge&logo=Apache Cordova&logoColor=412991"/>
 <img src="https://img.shields.io/badge/Electron-white?style=for-the-badge&logo=Electron&logoColor=#47848F"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-white?style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Redux-Saga-white?style=for-the-badge&logo=Redux-Saga&logoColor=#999999"/>
 
 </div>
 
