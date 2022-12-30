@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=#FF6C37"/>
 <img src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=#FFCA28"/></br>
 <img src="https://img.shields.io/badge/Android Studio-white?style=for-the-badge&logo=Android Studio&logoColor=#3DDC84"/>
-<img src="https://img.shields.io/badge/Apache Cordova-white?style=for-the-badge&logo=Apache Cordova&logoColor=#E8E8E8"/>
+<img src="https://img.shields.io/badge/Apache Cordova-white?style=for-the-badge&logo=Apache Cordova&logoColor=412991"/>
 <img src="https://img.shields.io/badge/Electron-white?style=for-the-badge&logo=Electron&logoColor=#47848F"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-white?style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
 
