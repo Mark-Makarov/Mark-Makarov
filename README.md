@@ -24,7 +24,7 @@
 
 <h3 align="center">Optional stack:</h3>
 <div id="badges">
-<img src="https://img.shields.io/badge/PWA-white?style=for-the-badge&logo=Shopware&logoColor=#5A0FC8"/>
+<img src="https://img.shields.io/badge/PWA-white?style=for-the-badge&logo=PWA&logoColor=#5A0FC8"/>
 
 </div>
 
