@@ -26,6 +26,7 @@
 <div id="badges">
 <img src="https://img.shields.io/badge/PWA-white?style=for-the-badge&logo=PWA&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Xcode-white?style=for-the-badge&logo=Xcode&logoColor=#147EFB"/>
+<img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=#CB3837"/>
 <img src="https://img.shields.io/badge/Create React App-white?style=for-the-badge&logo=Create React App&logoColor=#09D3AC"/>
 <img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=#FF6C37"/>
 <img src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=#FFCA28"/></br>
