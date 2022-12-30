@@ -7,7 +7,7 @@
 <h3 >Frontend-developer from Russia.</h3>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Main stack:</h3>
 <div id="badges">
 <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue"/>
@@ -20,6 +20,12 @@
 <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=181717"/>
 <img src="https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=OpenAI&logoColor=412991"/>
 <img src="https://img.shields.io/badge/WebStorm-white?style=for-the-badge&logo=WebStorm&logoColor=000000"/>
+</div>
+
+<h3 align="center">Optional stack:</h3>
+<div id="badges">
+<img src="https://img.shields.io/badge/PWA-white?style=for-the-badge&logo=PWA&logoColor=#5A0FC8"/>
+
 </div>
 
 <h3 align="center">Сontact me:</h3>
