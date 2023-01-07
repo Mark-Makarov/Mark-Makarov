@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/GitHub Pages-white?style=for-the-badge&logo=GitHub Pages&logoColor=222222"/>
 <img src="https://img.shields.io/badge/FileZilla-white?style=for-the-badge&logo=FileZilla&logoColor=BF0000"/>
 <img src="https://img.shields.io/badge/GNU Bash-white?style=for-the-badge&logo=GNU Bash-white&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/styled-components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093"/>
+<img src="https://img.shields.io/badge/styled components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093"/>
 <img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=#DD6F9"/>
 </div>
 
