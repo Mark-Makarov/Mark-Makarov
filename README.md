@@ -34,14 +34,14 @@
 <img src="https://img.shields.io/badge/Apache Cordova-white?style=for-the-badge&logo=Apache Cordova&logoColor=412991"/>
 <img src="https://img.shields.io/badge/Electron-white?style=for-the-badge&logo=Electron&logoColor=#47848F"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-white?style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Redux Saga-white?style=for-the-badge&logo=Redux-Saga&logoColor=purple"/>
-<img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=Sass&logoColor=#CC6699"/></br>
+<img src="https://img.shields.io/badge/Redux Saga-white?style=for-the-badge&logo=Redux-Saga&logoColor=purple"/></br>
+<img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=Sass&logoColor=#CC6699"/>
 <img src="https://img.shields.io/badge/Less-white?style=for-the-badge&logo=Less&logoColor=#1D365D"/>
 <img src="https://img.shields.io/badge/MobX-white?style=for-the-badge&logo=MobX&logoColor=#FF9955"/>
 <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=Next.js&logoColor=#000000"/>
-<img src="https://img.shields.io/badge/Heroku-white?style=for-the-badge&logo=Heroku&logoColor=#430098"/>
+<img src="https://img.shields.io/badge/Heroku-white?style=for-the-badge&logo=Heroku&logoColor=#430098"/></br>
 <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3"/>
-<img src="https://img.shields.io/badge/GitHub Pages-white?style=for-the-badge&logo=GitHub Pages&logoColor=#222222"/></br>
+<img src="https://img.shields.io/badge/GitHub Pages-white?style=for-the-badge&logo=GitHub Pages&logoColor=#222222"/>
 <img src="https://img.shields.io/badge/FileZilla-white?style=for-the-badge&logo=FileZilla&logoColor=#BF0000"/>
 <img src="https://img.shields.io/badge/GNU Bash-white?style=for-the-badge&logo=GNU Bash-white&logoColor=#4EAA25"/>
 <img src="https://img.shields.io/badge/styled-components-white?style=for-the-badge&logo=styled-components&logoColor=#DB7093"/>
