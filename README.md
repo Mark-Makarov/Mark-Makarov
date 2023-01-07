@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=blue"/>
 <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=purple"/>
-<img src="https://img.shields.io/badge/React Router?style=for-the-badge&logo=Redux&logoColor=#CA4245"/>
+<img src="https://img.shields.io/badge/React Router?style=for-the-badge&logo=React Router&logoColor=#CA4245"/>
 <img src="https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=MUI&logoColor=007FFF"/>
 <img src="https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=Yarn&logoColor=2C8EBB"/>
 <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite&logoColor=646CFF"/></br>
@@ -35,24 +35,24 @@
 <img src="https://img.shields.io/badge/Electron-white?style=for-the-badge&logo=Electron&logoColor=#47848F"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-white?style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Redux Saga-white?style=for-the-badge&logo=Redux-Saga&logoColor=purple"/>
-<img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=Redux-Saga&logoColor=#CC6699"/></br>
-<img src="https://img.shields.io/badge/Less-white?style=for-the-badge&logo=Redux-Saga&logoColor=#1D365D"/>
-<img src="https://img.shields.io/badge/MobX-white?style=for-the-badge&logo=Redux-Saga&logoColor=#FF9955"/>
-<img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=Redux-Saga&logoColor=#000000"/>
-<img src="https://img.shields.io/badge/Heroku-white?style=for-the-badge&logo=Redux-Saga&logoColor=#430098"/>
-<img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Redux-Saga&logoColor=#7952B3"/>
-<img src="https://img.shields.io/badge/GitHub Pages-white?style=for-the-badge&logo=Redux-Saga&logoColor=#222222"/></br>
-<img src="https://img.shields.io/badge/FileZilla-white?style=for-the-badge&logo=Redux-Saga&logoColor=#BF0000"/>
-<img src="https://img.shields.io/badge/GNU Bash-white?style=for-the-badge&logo=Redux-Saga&logoColor=#4EAA25"/>
-<img src="https://img.shields.io/badge/styled-components-white?style=for-the-badge&logo=Redux-Saga&logoColor=#DB7093"/>
-<img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Redux-Saga&logoColor=#8DD6F9"/>
+<img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=Sass&logoColor=#CC6699"/></br>
+<img src="https://img.shields.io/badge/Less-white?style=for-the-badge&logo=Less&logoColor=#1D365D"/>
+<img src="https://img.shields.io/badge/MobX-white?style=for-the-badge&logo=MobX&logoColor=#FF9955"/>
+<img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=Next.js&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/Heroku-white?style=for-the-badge&logo=Heroku&logoColor=#430098"/>
+<img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3"/>
+<img src="https://img.shields.io/badge/GitHub Pages-white?style=for-the-badge&logo=GitHub Pages&logoColor=#222222"/></br>
+<img src="https://img.shields.io/badge/FileZilla-white?style=for-the-badge&logo=FileZilla&logoColor=#BF0000"/>
+<img src="https://img.shields.io/badge/GNU Bash-white?style=for-the-badge&logo=GNU Bash-white&logoColor=#4EAA25"/>
+<img src="https://img.shields.io/badge/styled-components-white?style=for-the-badge&logo=styled-components&logoColor=#DB7093"/>
+<img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=#8DD6F9"/>
 </div>
 
 <h3 align="center">Learning:</h3>
 <div id="badges">
 <img src="https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=OpenAI&logoColor=412991"/>
-<img src="https://img.shields.io/badge/MDN Web Docs-white?style=for-the-badge&logo=OpenAI&logoColor=#000000"/>
-<img src="https://img.shields.io/badge/Stack Overflow-white?style=for-the-badge&logo=OpenAI&logoColor=#F58025"/>
+<img src="https://img.shields.io/badge/MDN Web Docs-white?style=for-the-badge&logo=MDN Web Docs&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/Stack Overflow-white?style=for-the-badge&logo=Stack Overflow&logoColor=#F58025"/>
 </div>
 
 <h3 align="center">Сontact me:</h3>
